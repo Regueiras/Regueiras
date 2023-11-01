@@ -1,7 +1,7 @@
 ## Olá eu sou Leandro Regueira!
 
 ### :books: Atualmente sou estudante de Análise e Desenvolvimento de Sistemas
-e estou em busca de estágio na área de desenvolvimento Back-end.
+e estou em busca oportunidade na área de desenvolvimento Back-end.
 ##
 Abaixo tem algumas das linguagens que estou estudando / tenho familiaridade :arrow_down_small:. 
 
